@@ -16,7 +16,7 @@ model = core.Model.load('model.pth', ['enemy'])
 input_file = "AT-cm 670698522.mp4"
 output_file = "output.mp4"
 fps = 60
-score_filter = 0.6
+score_filter = 0.7
 
 
 
