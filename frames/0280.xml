@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>0280.jpg</filename>
+	<path>C:\Dev\Projects\deep-learning-fps-aim-assist\frames\0280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>enemy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>890</xmin>
+			<ymin>581</ymin>
+			<xmax>925</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>
