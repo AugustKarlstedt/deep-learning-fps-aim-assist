@@ -1,6 +1,8 @@
 # deep learning aim assist
 idea: use off-the-shelf object detector to draw bounding boxes around enemies in first person shooter games
 
+![1](rendered/fps-1.gif)
+
 ## plan
 1. caputre screen from game (doesn't have to be 60 frames per second, could really just be like 5 FPS)
 2. use object detector on image
@@ -24,7 +26,6 @@ using LabelImg to annotate frames: https://github.com/tzutalin/labelImg
 ## examples
 here's some examples from the first iteration
 
-![1](rendered/fps-1.gif)
 ![2](rendered/fps-2.gif)
 ![3](rendered/fps-3.gif)
 
