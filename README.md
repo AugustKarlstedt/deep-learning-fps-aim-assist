@@ -21,3 +21,12 @@ now to split it up into frames using `ffmpeg`
 
 using LabelImg to annotate frames: https://github.com/tzutalin/labelImg
 
+## examples
+here's some examples from the first iteration
+
+![1](rendered/fps-1.gif)
+![2](rendered/fps-2.gif)
+![3](rendered/fps-3.gif)
+
+## todo
+well, definitely collect more data. see if it generalizes. make it run LIVE on a real game of CS:GO and see if I get VAC banned? 😛 Though I would imagine this wouldn't result in a VAC ban. FRAPS or OBS or other tools draw over the screen just fine. Hmm
