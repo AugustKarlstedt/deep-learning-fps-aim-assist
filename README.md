@@ -1,6 +1,10 @@
 # deep learning aim assist
 idea: use off-the-shelf object detector to draw bounding boxes around enemies in first person shooter games
 
+## update July 18, 2021
+this idea has been taken to the next level!
+https://arstechnica.com/gaming/2021/07/cheat-maker-brags-of-computer-vision-auto-aim-that-works-on-any-game/
+
 ![1](rendered/fps-1.gif)
 
 ## plan
